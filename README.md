@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alper-Sulun
 - 👀 I’m interested in Software Engineering and Game Developing
-- 🌱 I’m currently learning Python and C
-- 📫 How to reach me alper.sulun.41@gmail.com
+- 🌱 I’m currently learning Python and C++
+- 📫 Reach me @ alper.sulun.41@gmail.com
 
 <!---
 Alper-Sulun/Alper-Sulun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
