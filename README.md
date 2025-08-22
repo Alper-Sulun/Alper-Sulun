@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alper-Sulun
 - 👀 I’m interested in Software Engineering and Game Developing
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning C#
 - 📫 Reach me @ alper.sulun.41@gmail.com
 
 <!---
